@@ -1,4 +1,4 @@
-<h2 style = "align= center"> Cosine_Similarity</h2>
+<h2 align= center"> Cosine_Similarity</h2>
 
 * Cosine Similarity is a measurement that quantifies the similarity between two or more vectors. 
 * The cosine similarity is the cosine of the angle between vectors. 
