@@ -11,3 +11,4 @@
 
 ![image](https://user-images.githubusercontent.com/116465139/211195429-017fae78-573b-4c52-9501-228d884ef728.png)
 ![image](https://user-images.githubusercontent.com/116465139/211195432-86f9555b-677d-429c-9a77-8565f96d0427.png)
+Two vectors with 98% similarity based on the cosine of the angle between the vectors. 
